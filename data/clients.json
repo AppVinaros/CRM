@@ -1,0 +1,19 @@
+{
+    "clients": [
+        {
+            "nombre": "Juan Pérez",
+            "empresa": "Ejemplo SL",
+            "dominios": [
+                {"nombre": "ejemplo.com"},
+                {"nombre": "prueba.es"}
+            ]
+        },
+        {
+            "nombre": "María López",
+            "empresa": "WebCorp",
+            "dominios": [
+                {"nombre": "webcorp.com"}
+            ]
+        }
+    ]
+}
